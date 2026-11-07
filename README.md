@@ -19,8 +19,7 @@
 <!-- DESIGNED NAVIGATION BAR -->
 <a href="#about"><img src="https://img.shields.io/badge/About-ff0080?style=for-the-badge" alt="About" /></a>
 <a href="#skills"><img src="https://img.shields.io/badge/Tech_Stack-7928ca?style=for-the-badge" alt="Tech Stack" /></a>
-<a href="#experience"><img src="https://img.shields.io/badge/Experience-00f5d4?style=for-the-badge&labelColor=000000" alt="Experience" /></a>
-<a href="#projects"><img src="https://img.shields.io/badge/Projects-ff0080?style=for-the-badge" alt="Projects" /></a>
+
 <a href="#activity"><img src="https://img.shields.io/badge/Activity-7928ca?style=for-the-badge" alt="Activity" /></a>
 <a href="#connect"><img src="https://img.shields.io/badge/Connect-00f5d4?style=for-the-badge&labelColor=000000" alt="Connect" /></a>
 <br/><br/>
@@ -120,44 +119,8 @@ Tools<br/>
 <br/><br/>
 <sub>👆 hover for names, click to visit</sub>
 </div>
-<!-- Neon Rect Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca%2C100:ff0080&height=2&section=header&animation=fadeIn" width="100%" alt="" />
-<a id="experience"></a>
-Experience
-<div align="center">
-Period	Role	Company	What I Worked On
-Mar 2025 – Jan 2026	Software Engineer	Sioniq	Large-scale ERP for jewellery manufacturers & wholesalers (Admin, Inventory, Procurement, Production) with Angular 18, PrimeNG, .NET Core
-Aug 2023 – Mar 2025	Angular Developer	Aabasoft	SEALINK (ERP), VEDATMA (CRM) and SENDOXI (messaging app) with Angular 10–15, REST APIs, MSSQL
-Jul 2021 – Jul 2023	Software Engineer	Aspire Systems	ICON iExpense mobile app (cut reimbursement effort by 80%) and NBK HRMS admin portal with Angular 12–16, Ionic, Capacitor
-</div>
-<!-- Neon Rect Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca%2C100:ff0080&height=2&section=header&animation=fadeIn" width="100%" alt="" />
-<a id="projects"></a>
-Projects
-<div align="center">
-<table border="0" align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=dotnet,cs" height="50" /><br/>
-      <b>🛍️ E-Commerce Fashion Web App</b><br/>
-      <sub>ASP.NET · SQL Server · WCF</sub><br/>
-      <sub>Product & user management, shopping cart, order processing and demo payments</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=dotnet,cs" height="50" /><br/>
-      <b>💼 Freelance IT Portal</b><br/>
-      <sub>ASP.NET MVC · SQL Server</sub><br/>
-      <sub>Project search, bidding and admin bid management</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=dotnet,cs" height="50" /><br/>
-      <b>🚗 Vehicle Service Booking System</b><br/>
-      <sub>ASP.NET Core MVC · SQL Server</sub><br/>
-      <sub>Registration, vehicle/service management, bookings and admin console</sub>
-    </td>
-  </tr>
-</table>
-<br/>
+
+
 <a href="https://github.com/Neelimajjimmy?tab=repositories"><img src="https://img.shields.io/badge/Browse_All_Repositories-ff0080?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </div>
 <!-- Neon Rect Divider -->
