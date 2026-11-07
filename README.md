@@ -121,7 +121,7 @@ Tools<br/>
 </div>
 
 
-<a href="https://github.com/Neelimajjimmy?tab=repositories"><img src="https://img.shields.io/badge/Browse_All_Repositories-ff0080?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+
 </div>
 <!-- Neon Rect Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca%2C100:ff0080&height=2&section=header&animation=fadeIn" width="100%" alt="" />
